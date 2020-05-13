@@ -1,0 +1,1 @@
+protoc命令行编译语句：protoc --java_out=src/main/java src/main/java/com/coderzxh/web/protobuf/resource/camera.proto
